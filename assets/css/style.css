@@ -1,8 +1,23 @@
 body,html{
     height: 100%;
     width: 100%;
-    overflow-x: none;
+    overflow-x: hidden;
 }
 body{
     background-color: #FFFFFF;
+}
+.sidebarHeader{
+    background-color: #4968AD;
+    height: 100%;
+}
+.sidebarProPic{
+    width: 100px;
+    hieght: 100px;
+    border: 1px solid white;
+    border-radius: 50%;
+    float: left;
+    margin-left: 20px;
+}
+.sidebarDropdown{
+    border: .1px solid #FFFFFF !important;
 }
