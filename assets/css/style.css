@@ -18,6 +18,26 @@ body{
     float: left;
     margin-left: 20px;
 }
-.sidebarDropdown{
-    border: .1px solid #FFFFFF !important;
+.sidebarBG{
+    width: 100%;
+    height: 1000px;
+    background-color: #4968AD;
+}
+.centerProPic{
+    width: 75px;
+    hieght: 75px;
+    border: 1px solid white;
+    border-radius: 50%;
+    float: left;
+    margin-left: 20px;
+}
+.centerSocialMediaIcons{
+    height: 40px;
+    width: 40px;
+}
+.centerRightCol{
+    float: right;
+}
+.centerHeader{
+    background-color: lightgray;
 }
