@@ -13,7 +13,7 @@ body{
 .sidebarProPic{
     width: 100px;
     hieght: 100px;
-    border: 1px solid white;
+    border: 1px solid #FFFFFF;
     border-radius: 50%;
     float: left;
     margin-left: 20px;
@@ -26,7 +26,7 @@ body{
 .centerProPic{
     width: 75px;
     hieght: 75px;
-    border: 1px solid white;
+    border: 1px solid #FFFFFF;
     border-radius: 50%;
     float: left;
     margin-left: 20px;
@@ -39,5 +39,10 @@ body{
     float: right;
 }
 .centerHeader{
-    background-color: lightgray;
+    background-color: #D3D3D3;
+}
+.messageContent{
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 715px;
 }
